@@ -100,3 +100,5 @@ footer{padding:26px 0;color:var(--mut);font-size:14px}
   .card{padding:16px}
   .sub{font-size:16px}
 }
+header>div,footer>div,section.wrap,section.hero,section#catalog{max-width:1160px;margin:0 auto;padding-left:20px;padding-right:20px}
+section.how>div{max-width:1160px;margin:0 auto;padding:44px 20px}
